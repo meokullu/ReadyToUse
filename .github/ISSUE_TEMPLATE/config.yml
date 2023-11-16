@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discussions
+    url: https://github.com/meokullu/ReadyToUse/discussions
+    about: Please ask and answer questions here.
+  - name: Issues
+    url: https://github.com/meokullu/ReadyToUse/issues
+    about: Please report security vulnerabilities here.
+  - name: Pull Request
+    url: https://github.com/meokullu/ReadyToUse/pulls
+    about: Please do PR here.
