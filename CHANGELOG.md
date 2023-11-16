@@ -3,13 +3,13 @@
 [Useful badges](https://github.com/meokullu/UsefulGithub/tree/main)
 
 Total Nuget Download:
-* [![CalculateETA](https://img.shields.io/nuget/dt/CalculateETA.svg)](https://www.nuget.org/packages/CalculateETA/)
+* Example, not real data. [![CalculateETA](https://img.shields.io/nuget/dt/CalculateETA.svg)](https://www.nuget.org/packages/UsefulGithub/)
 
 Latest Nuget Version:
-* [![NuGet latest version](https://badgen.net/nuget/v/CalculateETA/latest)](https://nuget.org/packages/CalculateETA)
+*  Example, not real data. [![NuGet latest version](https://badgen.net/nuget/v/CalculateETA/latest)](https://nuget.org/packages/UsefulGithub)
 
 Total Releases Download:
-* [![Github all releases](https://img.shields.io/github/downloads/meokullu/CalculateETA/total.svg)](https://GitHub.com/meokullu/CalculateETA/releases/)
+*  Example, not real data. [![Github all releases](https://img.shields.io/github/downloads/meokullu/CalculateETA/total.svg)](https://GitHub.com/meokullu/UsefulGithub/releases/)
 
 <!--
 ### [Unreleased] (YYYY-MM-DD)
@@ -29,7 +29,7 @@ Total Releases Download:
 
 <!--[keepachangelog v1.1.0](https://keepachangelog.com/en/1.1.0/) -->
 
-### [v1.0.0] (2023-10-29)
+### [v1.x.y] (YYYY-MM-DD)
 
 #### Added
 * Added feature.
@@ -48,3 +48,6 @@ Total Releases Download:
   
 #### Security
 * Fixed a vulnerable bug.
+
+### [v1.0.0] (2023-11-16)
+Initial release.
