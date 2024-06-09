@@ -1,10 +1,10 @@
-# ReadyToUse
+## ReadyToUse
 This repo contains ready to use conent structure.
 
-## Description
+### Description
 ReadyToUse, contains files, badges, templates to start a new project easily.
 
-## Random photo to shock you because it is internet.
+### Random photo to shock you because it is internet.
 ![ReadyToUse](https://repository-images.githubusercontent.com/715524739/6ad3c868-fbef-41cc-b78b-b187aa667f1e)
 
 ### Version History
@@ -18,10 +18,10 @@ To create "MIT" licence, go to [MIT link](https://choosealicense.com/licenses/mi
 
 This repository is licensed under the "MIT" license. See [MIT license](https://github.com/meokullu/ReadyToUse/blob/master/LICENSE).
 
-## Authors & Contributing
+### Authors & Contributing
 If you'd like to contribute, then contribute. [contributing guide](https://github.com/meokullu/ReadyToUse/blob/master/CONTRIBUTING.md).
 
 [![Contributors](https://contrib.rocks/image?repo=meokullu/ReadyToUse)](https://github.com/meokullu/ReadyToUse/graphs/contributors)
 
-## Help
+### Help
 Twitter: Enes Okullu [@enesokullu](https://twitter.com/EnesOkullu)
